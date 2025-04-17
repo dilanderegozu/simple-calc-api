@@ -76,9 +76,6 @@ Bu proje, matematiksel hesaplamalar yapmak için bir API sunar. Kullanıcılar, 
 - **400 Bad Request**: Hatalı veya eksik parametreler.
 - **404 Not Found**: Endpoint bulunamadı.
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
 
 ## Katkı Sağlama
 
